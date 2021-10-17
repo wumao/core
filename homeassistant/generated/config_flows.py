@@ -305,6 +305,7 @@ FLOWS = [
     "tibber",
     "tile",
     "tolo",
+    "tomorrowio",
     "toon",
     "totalconnect",
     "tplink",
